@@ -25,13 +25,13 @@ We have deployed a dedicated web platform to facilitate practical application an
 The dataset presented in this repository is a curated subset systematically extracted and organized from the **AgBase** development corpus, which is part of the foundational **AgMMU** benchmark suite. 
 
 Please cite our paper if you use the dataset in your research:
+```bibtex
 @misc{sls-kd-agricultural-vqa-2026,
-  author       = {alice-cool},
-  title        = {SLS-KD: Selective Large-to-Small Knowledge Distillation for Agricultural Multimodal Question Answering Tasks},
-  year         = {2026},
-  publisher    = {GitHub},
-  url          = {https://github.com/alice-cool/SLS-KD-Selective-Large-to-Small-Knowledge-Distillation-for-Agricultural-VQA-Tasks}
+  author = {alice-cool},
+  title = {SLS-KD: Selective Large-to-Small Knowledge Distillation for Agricultural Multimodal Question Answering Tasks},
+  year = {2026},
+  publisher = {GitHub},
+  url = {https://github.com/alice-cool/SLS-KD-Selective-Large-to-Small-Knowledge-Distillation-for-Agricultural-VQA-Tasks}
 }
 
-[Insert Paper Title Here]  
-[Insert Journal Name and DOI Here]
+[SLS-KD: Selective Large-to-Small Knowledge Distillation for Agricultural Multimodal Question Answering Tasks]
